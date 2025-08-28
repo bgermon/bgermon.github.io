@@ -308,6 +308,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-remote-theme
   - jemoji
 
 # Mimic GitHub Pages with --safe
@@ -319,6 +320,7 @@ whitelist:
   - jekyll-redirect-from
   - jemoji
 
+remote_theme: academicpages/academicpages.github.io
 
 # Archives
 #  Type
