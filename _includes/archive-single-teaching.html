@@ -1,0 +1,18 @@
+
+<tr>
+    {% if post.year %}
+        <td align="center">{{post.year}}</td>
+    {% endif %}
+
+    {% if post.grade %}
+        <td align="center">{{post.grade}}</td>
+    {% endif %}
+
+    {% if post.title %}
+        <td><a href={{post.link}}>{{post.title}}</a></td>
+    {% endif %}
+
+    {% if post.load %}
+        <td align="center">{{post.load}}</td>
+    {% endif %}     
+</tr>
