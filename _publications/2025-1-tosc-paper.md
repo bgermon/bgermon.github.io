@@ -1,9 +1,9 @@
 ---
 title: "Extending the quasidifferential framework: from fixed-key to expected differential probability"
 collection: publications
-category: manuscripts
+category: journal
 permalink: /publication/2025-03-07-extending-the-quasidifferential-framework-:-from-fixed-key-to-expected-differential-probability
-excerpt: 'In this paper, we extend the quasidifferential framework from Beyne and Rijmen to the related-key setting. Furthermore, we also extend it to compute the EDP of a characteristic. We also propose some practical modeling of those extensions and apply them on SKINNY and the AES'
+excerpt: 'In this paper, we extend the quasidifferential framework from Beyne and Rijmen to the related-key setting. Furthermore, we also extend it to compute the EDP of a characteristic. We also propose some practical modeling of those extensions and apply them on SKINNY and the AES.'
 date: 2025-03-07 
 venue: 'IACR Transactions on Symmetric Cryptology'
 slidesurl: 'https://bgermon.github.io/files/slides/slides-tosc-2025-1.pdf'
