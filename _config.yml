@@ -27,7 +27,7 @@ author:
   pronouns         : "he/him"  
   bio              : "PhD student in symmetric cryptanalysis"
   location         : "Rennes, France"
-  employer         : "Université de Rennes, INRIA"
+  employer         : "Université de Rennes, IRISA, Inria"
   email            : "baptiste.germon.inria.fr" 
 
   # Academic websites
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/baptiste-germon-0866aa212/"
+  linkedin         : "baptiste-germon-0866aa212/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
