@@ -1,4 +1,5 @@
 ---
+id: "2"
 title: "SPEEDY: Caught at Last"
 collection: publications
 category: preprint
@@ -8,4 +9,18 @@ date: 2025-05-19
 venue: 'IACR Cryptology ePrint Archive'
 paperurl: '/files/papers/paper-eprint-2025-890.pdf'
 bibtexurl: '/files/bibtex/bibtex-eprint-2025-890.bib'
+bibtex: "@article{DBLP:journals/iacr/BouraDGBN25,  \\n
+  author       = {Christina Boura and  \\n
+                  Patrick Derbez and  \\n
+                  Baptiste Germon and  \\n
+                  Rachelle Heim Boissier and  \\n
+                  Mar{\\'{\\i}}a Naya{-}Plasencia},  \\n
+  title        = {{SPEEDY:} Caught at Last},  \\n
+  journal      = {{IACR} Cryptol. ePrint Arch.},  \\n
+  pages        = {890},  \\n
+  year         = {2025},  \\n
+  url          = {https://eprint.iacr.org/2025/890},  \\n
+  timestamp    = {Fri, 27 Jun 2025 21:43:55 +0200},  \\n
+  biburl       = {https://dblp.org/rec/journals/iacr/BouraDGBN25.bib},  \\n
+  bibsource    = {dblp computer science bibliography, https://dblp.org}  \\n}"
 ---

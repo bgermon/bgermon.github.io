@@ -5,6 +5,31 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+    /* Popup styling */
+    #copyPopup {
+      visibility: hidden;
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      border-radius: 5px;
+      padding: 5px 10px;
+      position: absolute;
+      z-index: 1;
+      top: 50px; /* adjust as needed */
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 14px;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+
+    #copyPopup.show {
+      visibility: visible;
+      opacity: 1;
+    }
+</style>
+
 {% if site.author.dblp %}
   <div class="wordwrap">You can also find my publications on <a href="{{site.author.dblp}}">my dblp profile</a>.</div>
 {% endif %}

@@ -10,6 +10,12 @@
     color:teal;
 }
 
+.red-color {
+    color: #fe5a5c;
+}
+
+
+
 @font-face {
     font-family: 'Academicons';
     font-style: normal;
