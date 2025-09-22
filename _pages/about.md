@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "PhD Student @[Inria](https://www.inria.fr/fr)"
+# title: "PhD Student @[Inria](https://www.inria.fr/fr)"
 author_profile: true
 redirect_from: 
   - /about/
